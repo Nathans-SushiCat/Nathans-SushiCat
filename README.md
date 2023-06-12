@@ -1,5 +1,12 @@
 ### Hi there 👋
 
+- 🔭 I’m currently working on "Obsticledif" (Unity Game)
+- 🌱 I’m currently learning "Unity"
+- 💬 Ask me about nothing
+- 📫 How to reach me: https://osu.ppy.sh/users/12501064
+- 😄 Pronouns: he/him
+
+
 <!--
 **Nathans-SushiCat/Nathans-SushiCat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
