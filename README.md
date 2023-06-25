@@ -1,10 +1,10 @@
 ### Hi there, I'm Sushicat 👋
 <br/>
-- 🔭 I’m currently working on nothing
-- 🌱 I’m currently learning living
-- 💬 Ask me about anything
-- 📫 How to reach me: https://osu.ppy.sh/users/12501064
-- 😄 Pronouns: idc
+- 🔭 I’m currently working on nothing<br/>
+- 🌱 I’m currently learning living<br/>
+- 💬 Ask me about anything<br/>
+- 📫 How to reach me: https://osu.ppy.sh/users/12501064<br/>
+- 😄 Pronouns: idc<br/>
 
 
 <!--
