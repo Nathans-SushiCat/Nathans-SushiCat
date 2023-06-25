@@ -1,10 +1,10 @@
-### Hi there 👋
-
-- 🔭 I’m currently working on "Obsticledif" (Unity Game)
-- 🌱 I’m currently learning "Unity"
-- 💬 Ask me about nothing
+### Hi there, I'm Sushicat 👋
+<br/>
+- 🔭 I’m currently working on nothing
+- 🌱 I’m currently learning living
+- 💬 Ask me about anything
 - 📫 How to reach me: https://osu.ppy.sh/users/12501064
-- 😄 Pronouns: he/him
+- 😄 Pronouns: idc
 
 
 <!--
