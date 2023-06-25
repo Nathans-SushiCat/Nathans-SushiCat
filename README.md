@@ -1,9 +1,10 @@
 ### Hi there, I'm Sushicat 👋
 <br/>
-- 🔭 I’m currently working on nothing<br/>
+- 🔭 I'm currently working on finding new ideas<br/>
 - 🌱 I’m currently learning living<br/>
 - 💬 Ask me about anything<br/>
 - 📫 How to reach me: https://osu.ppy.sh/users/12501064<br/>
+- 🥅 2023 Goals: Create a playable game<br/>
 - 😄 Pronouns: idc<br/>
 
 
