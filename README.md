@@ -1,4 +1,4 @@
-# About Me:
+# About Me: <br>
 - 🔭 I'm currently working on finding new ideas<br>- 🌱 I’m currently learning mostly for my self<br>- 💬 Ask me about anything<br>- 📫 How to reach me: https://osu.ppy.sh/users/12501064<br>- 🥅 2023 Goals: Create a playable game<br>- 😄 Pronouns: idc<br>- 💫 I realy hate JavaScript
 
 
