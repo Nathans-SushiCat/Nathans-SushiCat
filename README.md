@@ -1,5 +1,5 @@
 # About Me:
-<br>-🔭 I'm currently working on finding new ideas<br>-🌱 I’m currently learning mostly for my self<br>- 💬 Ask me about anything<br>- 📫 How to reach me: https://osu.ppy.sh/users/12501064<br>- 🥅 2023 Goals: Create a playable game<br>- 😄 Pronouns: idc<br>- 💫 I hate JavaScript
+<br>-🔭 I'm currently working on finding new ideas<br>-🌱 I’m currently learning mostly for my self<br>- 💬 Ask me about anything<br>- 📫 How to reach me: https://osu.ppy.sh/users/12501064<br>- 🥅 2024 Goals: Writing clean code<br>- 😄 Pronouns: idc<br>- 💫 I hate JavaScript
 
 
 # 💻 Tech Stack:
