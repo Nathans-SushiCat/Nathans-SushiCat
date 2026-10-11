@@ -1,5 +1,5 @@
 # About Me:
-<br>-🔭 I'm currently working towards finding new game ideas<br>- 💬 Ask me about anything<br>- 🎮Favorite game: https://osu.ppy.sh/users/12501064<br>- 🥅 2025 Goal: Releasing my first PC game<br>- 💫 I hate JavaScript<br>- My Name in emojis: 🍣🐱
+<br>-🔭 I'm currently working towards finding new game ideas<br>- 💬 Ask me about anything<br>- 🎮Favorite game: https://osu.ppy.sh/users/12501064<br>- 💫 I hate JavaScript<br>
 
 2024 Goal: Releasing my first mobile game ✅
 # 💻 Tech Stack:
